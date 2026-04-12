@@ -1,2 +1,2 @@
 # MLOPS-First-Project
-This project demonstrates End-to-End pipeline for Vechicle Insurance Prediction.
+In this repo I am going to develop a complete ML workflow, starting from data injection, preprocessing and logging the data. Additionally DVC and AWS S3 will be used for data handling.
