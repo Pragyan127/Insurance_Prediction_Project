@@ -1,2 +1,2 @@
 # MLOPS-First-Project
-This is my first mlops porject.
+This project demonstrates End-to-End pipeline for Vechicle Insurance Prediction.
