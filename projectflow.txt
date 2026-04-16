@@ -35,8 +35,8 @@
     add code to components.data_ingestion.py file >> add code to training pipeline >> 
     run demo.py (set mongodb connection url first, see next step)
 18. To setup the connection url on mac(also work for windows), open bash/powershell terminal and run below command:
-                        *** For Bash ***
-    set: export MONGODB_URL="mongodb+srv://<username>:<password>......"
+                        *** For Bash ***export MONGODB_URL="mongodb+srv://<username>:<password>....
+    set: .."
     check: echo $MONGODB_URL
                         *** For Powershell ***
     set: $env:MONGODB_URL = "mongodb+srv://<username>:<password>......"
